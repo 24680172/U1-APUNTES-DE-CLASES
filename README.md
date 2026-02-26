@@ -963,4 +963,12 @@ Este código se centra en la captura de datos y la validación de formularios.
 
 <img width="1919" height="996" alt="image" src="https://github.com/user-attachments/assets/cbf95f51-8de3-4654-9158-c6d74599d7b4" />
 
+# BIBLIOGRAFÍAS
 
+Flet Team. (2025). Event - Flet docs. Recuperado de la documentación oficial de Flet.
+
+Flet Team. (2025). Async apps - Flet docs. Recuperado de la sección de recetas avanzadas de Flet.
+
+Flet Team. (2024). Introducing Declarative UI in Flet. Blog oficial de Flet.
+
+The Bridge. (s. f.). Consejos para el diseño de interfaz de usuario. Recuperado el 25 de febrero de 2026, de Interfaz de usuario – The Bridge
